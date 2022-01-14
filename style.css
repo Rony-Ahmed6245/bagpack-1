@@ -1,0 +1,96 @@
+.header-bg{
+    background-color: #fffff4;
+}
+.logo{
+    width: 250px;
+}
+.banner img{
+    width: 70%;
+}
+.main-sec{
+    background-color: #fffff4;
+   
+}
+span{
+    color: #76c27e;
+}
+.banner-text{
+    font-weight: bold;
+    font-family:Tahoma, sans-serif;
+}
+.banner-btn{
+    background-color:rgb(42 30 89) ;
+    color: white;
+}
+.shoping-cart{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+}
+.shoping-cart img{
+    width: 25px;
+}
+.mid-banner img{
+    width: 100%;
+}
+.gutter img{
+    width: 100px;
+}
+
+.breake img{
+    width: 70px;
+}
+.woood{
+    border-radius: 20px;
+    
+}
+.paper img{
+    width: 100%;
+    margin-top: 25%;
+}
+.rod img{
+    width: 70px;
+}
+.rod{
+    border-radius: 10px;
+}
+.lele{
+    border-radius: 15px;
+}
+.bag{
+    border-radius: 10px;
+}
+.card-bag{
+    border: 0;
+    border-radius: 10px;
+}
+
+
+.card-btn{
+    color: rgb(255, 255, 255);
+    background-color: #2a1e59;
+    border-radius: 4px;
+    width: 150px;
+    height: 55px;
+}
+.card-btn:hover{
+    color: #15a3ad;
+}
+.card-btn img{
+    width: 25px;
+}
+.card-title{
+    color:#2a1e59 ;
+    font-weight: 700;
+}
+.casual{
+    color:#2a1e59 ;
+    font-style: oblique;
+}
+footer{
+    color: turquoise;
+    background-color:#2a1e59 ;
+    width: auto;
+    height: 100px;
+}
+
